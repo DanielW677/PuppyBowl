@@ -1,0 +1,29 @@
+.body{
+    display: flex;
+}
+.img{
+    flex-direction: row;
+    width: 15wh;
+    height: 15vh;
+    /* justify-content: space-evenly; */
+    /* padding: 20px 20px 20px 20px;
+    padding-left: 40px;
+    padding-top: 40px; */
+}
+.rowFlex{
+    display: inline-flex;
+    display: inline-block;
+    border: 1px solid black;
+    justify-content: space-between;
+}
+.navBar{
+    font-size: 75px;
+    text-align: center;
+}
+.flexContainer{
+    display: flex;
+}
+.puppyPara{
+    font-size: larger;
+    font-weight: bold;
+}
